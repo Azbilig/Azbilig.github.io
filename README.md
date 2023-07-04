@@ -6,7 +6,7 @@
 <body>
   <h3>Сайн байна уу манай site д тавтай морил.Энэхүү site нь таны яагаад уурласан тухай мэдээлэлийг цуглуулан таны өгсөн мэдээлэлд тулгуурлан албан ёсоор уучлалт гуйх үүрэгтэй юм.Хэрэв та мэдээлэлээ нөхсөн бол баталгаажуулах дараад болоо.(Чатаар уучлалт гуйх болно)</h3>
   <!--form action--->
-    <form action='https://azbilig.github.io/' method='POST'>
+    <form action="https://azbilig.github.io/" method='POST'>
     <ol>
     <li><label for="name">Нэрээ энд оруулна уу</label></li>
     <input type='text' id='name' name='name' required>
